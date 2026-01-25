@@ -1,3 +1,14 @@
+---
+title: Reelive 叙事引擎
+emoji: 📖
+colorFrom: orange
+colorTo: red
+sdk: docker
+pinned: false
+license: mit
+app_port: 7860
+---
+
 # 叙事引擎 - ModelScope 部署版
 
 **架构**: FastAPI (Python 3.12) + React 19 + Vite
